@@ -3,9 +3,9 @@ templateKey: blog-post
 title: '"Making a Fuss"'
 date: 2019-04-18T00:03:23.172Z
 description: >-
-  military service is a chosen career, just like a doctor or teacher, and by
+  "military service is a chosen career, just like a doctor or teacher, and by
   implementing his ban, we have asked people to choose between that career or
-  living their life authentically
+  living their life authentically"
 featuredpost: true
 featuredimage: /img/fuss.jpg
 tags:
