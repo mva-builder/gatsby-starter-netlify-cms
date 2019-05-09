@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Minority Veterans of America
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Conect. Understand. Serve.
 subheading: Conect. Understand. Serve.
 mainpitch:
-  title: Why Kaldi
+  title: Redefining the US veteran's narrative
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
