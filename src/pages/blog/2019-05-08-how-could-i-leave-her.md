@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How Could I Leave Her?
-date: 2019-05-09T01:46:37.823Z
+date: 2018-11-11T02:46:37.823Z
 description: >-
   "I lost part of myself today. The biggest part, really, up until I became a
   mother. The part that defined me; before I was a daughter, a sister, a friend,
