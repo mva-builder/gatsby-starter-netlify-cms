@@ -25,18 +25,18 @@ description: >-
   that make them underrepresented in the veteran community.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/screen-shot-2019-05-09-at-5.52.56-pm.png
       text: >-
-        Connect: Join the MVA community, where you can tell your story and
-        connect with other minority vets.
-    - image: /img/coffee-gear.png
+        Join the MVA community, where you can tell your story and connect with
+        other minority vets.
+    - image: /img/screen-shot-2019-05-09-at-5.53.06-pm.png
       text: >-
-        Understand: Learn more about minority veterans, the issues we face, and
-        find resources to serve.
-    - image: /img/tutorials.png
+        Learn more about minority veterans, the issues we face, and find
+        resources to serve.
+    - image: /img/screen-shot-2019-05-09-at-5.53.13-pm.png
       text: >-
-        Serve: Form teams and build programs that meet the needs of our members
-        and communities.
+        Form teams and build programs that meet the needs of our members and
+        communities.
   heading: Together we’re building a movement…
   description: >-
     Founded in November 2017, the Minority Veterans of America (MVA) is a
