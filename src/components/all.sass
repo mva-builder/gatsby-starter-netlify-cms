@@ -6,7 +6,7 @@ $mva-red: #f15d4e
 $mva-red-invert: #fff
 
 $mva-blue: #04476d
-$mva-blue-invert: #333
+$mva-blue-invert: #fff
 
 $primary: $mva-red
 $primary-invert: $mva-red-invert
@@ -31,6 +31,9 @@ $black: #2b2523
     padding: 0 2rem 1rem 0
     margin-bottom: 1.5rem
     margin-top: 0
+
+.section--gradient
+  background: linear-gradient(to top, $black, $mva-blue, $mva-red, white), 
 
 // Helper Classes
 .full-width-image-container
@@ -71,6 +74,9 @@ $black: #2b2523
     box-shadow: inset 0 0 0 2px #f15d4e
     -webkit-transition: all .15s ease
     transition: all .15s ease
+
+button .is-link
+  background-color: $mva-blue
 
 .margin-top-0
   margin-top: 0 !important
