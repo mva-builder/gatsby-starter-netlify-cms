@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How Anthony Bourdain Got Me Through Post-War Depression
-date: 2019-05-09T01:53:28.275Z
+date: 2018-11-11T02:53:28.275Z
 description: >-
   "Anthony Bourdain didn’t just shake up my views of travel shows at the time,
   he became an unexpected ally for an isolated and depressed combat veteran
