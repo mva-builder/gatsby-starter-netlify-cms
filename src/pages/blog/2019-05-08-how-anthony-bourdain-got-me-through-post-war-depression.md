@@ -7,7 +7,7 @@ description: >-
   he became an unexpected ally for an isolated and depressed combat veteran
   thousands of miles away."
 featuredpost: true
-featuredimage: /img/_mva-logo-wide-color.png
+featuredimage: /img/bourdaining.png
 tags:
   - LGBTQ
   - People of Color
