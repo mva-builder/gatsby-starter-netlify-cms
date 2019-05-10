@@ -1,19 +1,22 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Our Values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## Mission
+The mission of Minority Veterans of America (MVA) is to create belonging and advance equity for underrepresented veterans.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## Vision
+The objective of MVA is to succeed in the following four areas:
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+- To change and shape the narrative and public image of the U.S. veteran to reflect the diverse backgrounds of our current and past service members. Through storytelling campaigns we will capture the perspectives of the underrepresented veteran to ensure that their stories are added to the tapestry of the American veteran.
+- To build a community of minority veterans that becomes large enough and loud enough to create a new type of majority in the veteran population. We will do this through grassroots organizing, canvassing, collaborating with existing veteran and community organizations, and networking.
+- To earn a seat at the highest tables of veteran leadership in the country in order to advocate for the unique needs of U.S. underrepresented veterans. As a non-partisan organization, we will work with current leadership and lawmakers to shape policy that impacts the individuals that we serve.
+- To grow and mentor new leaders who will go out into the world and change the public’s idea of what a veteran is, what we look like, and what we represent. Through developing peer-to-peer mentorship and leadership programs, we will empower our members and ensure that they have the tools that they need to succeed.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+## Values
+MVA is built on the following fundamental values that we use as our guiding principles for our organization: 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
++ Inclusivity – We are inclusive of veterans of all walks of life. No matter what identities veterans or civilians hold, there is a place in the MVA for everyone.
++ Advocacy – By bringing together communities of underrepresented veterans, we are able to hear the voices and stories and better understand the needs of those that we wish to serve. In properly advocating for the needs of our constituents, we have the opportunity to change the landscape of services for those who feel as though they have been forgotten in the veteran community.
++ Allyship - History has shown us that if we do not find a way to work together, we will lose our seat at the table and our communities will suffer for it.  Through building a united community around all identities, we are bigger, stronger, and more capable of fighting for change together and winning.
++ Education – Education is the primary means for impacting lasting change. Through educational programs, we will offer trainings about the needs of underrepresented groups in the veteran community. We also work within the communities by offering mentorship programs for both recently separated service members and others looking to improve through personal and professional development.
