@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Minority Veterans of America
-image: /img/home-jumbotron.jpg
+image: /img/_mva-logo-wide-color.png
 heading: Our Story
 subheading: Connect. Understand. Serve.
 mainpitch:
