@@ -215,13 +215,6 @@ export const productPageQuery = graphql`
             }
           }
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         pricing {
           heading
           description
